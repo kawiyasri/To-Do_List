@@ -1,4 +1,4 @@
-# 📝 Simple To-Do Web Application
+# 📝 Simple To-Do List Web Application
 
 A simple and user-friendly **To-Do List Web Application** built using **Python Flask** and **Microsoft SQL Server**. This application allows users to create, edit, complete, and delete tasks while storing all data persistently in a SQL Server database.
 
